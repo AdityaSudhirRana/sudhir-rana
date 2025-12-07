@@ -1,7 +1,7 @@
 # Sudhir Rana  
 ## **Enterprise IT Strategist | Cloud & Cybersecurity Leader | Digital Transformation Expert**  
 
-![Enterprise IT Leader](https://your-image-link.com)  
+<!-- ![Enterprise IT Leader]((https://avatars.githubusercontent.com/u/185826447?v=4) -->
 
 ### 🏆 **About Me**  
 With **21+ years of expertise** in **IT infrastructure, cloud strategy, cybersecurity, and enterprise digital transformation**, I specialize in designing, implementing, and optimizing **mission-critical IT ecosystems**. My approach is built on **scalability, security, and innovation**, ensuring technology aligns with business growth. 
@@ -29,8 +29,8 @@ I have successfully **led IT transformations across India, UAE, Germany, and Ukr
 🏅 **Certifications:** ITIL | MCP | MCSA | MCSE | CCNA | CCIE (Lab Attempted)  
 
 ### 🌍 **Let’s Connect**  
-🌐 **Portfolio**: [sudhirrana.tech](https://your-portfolio-link.com)  
-🔗 **GitHub**: [github.com/sudhirrana](https://github.com/sudhirrana)  
+🌐 **Portfolio**: [sudhirrana.tech](https://sudhirrana.tech)  
+🔗 **GitHub**: [github.com/sudhir-rana](https://github.com/sudhir-rana)  
 🔗 **LinkedIn**: [linkedin.com/in/sudhir-rana](https://www.linkedin.com/in/sudhir-rana)  
 📧 **Email**: sudhir.rana@gmail.com  
 
