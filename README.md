@@ -1,4 +1,4 @@
-# Sudhir Rana  
+# Sudheer G Rana  
 ## **Enterprise IT Strategist | Cloud & Cybersecurity Leader | Digital Transformation Expert**  
 
 ![Enterprise IT Leader](https://your-image-link.com)  
